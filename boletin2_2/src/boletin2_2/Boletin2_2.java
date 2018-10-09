@@ -9,6 +9,8 @@ import java.util.Scanner;
 
 
 
+
+
 /**
  *
  * @author drodriguezguardiola
@@ -30,6 +32,9 @@ public class Boletin2_2 {
         System.out.println("tecle grados");
         float gradosKelvin=(gradosCentrigrados+273.15f);
         System.out.println("grados Kelvin = "+gradosKelvin);
+        
+        
+        
         
         
         

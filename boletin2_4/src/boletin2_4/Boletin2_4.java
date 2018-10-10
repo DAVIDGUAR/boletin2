@@ -41,11 +41,6 @@ public class Boletin2_4 {
         System.out.println("cambio monedas 1 = "+cambio1);
         
        
-        
-        
-       
-        
-        
        
         
         

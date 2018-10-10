@@ -7,7 +7,6 @@ package boletin2_5;
 
 import java.util.Scanner;
 
-
 /**
  *
  * @author drodriguezguardiola
